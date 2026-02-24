@@ -2,7 +2,7 @@
 
 ## 1. Project Overview
 
-This project is a computational design prototype developed for the **Branch** Software Engineer assignment. It addresses the "Door Problem": given a set of rectangular spaces representing an apartment layout, the engine automatically identifies valid shared boundaries and determines the most **natural and efficient** locations for internal connections.
+This project is a computational design prototype developed for a fun Software Engineer challenge. It addresses the "Door Problem": given a set of rectangular spaces representing an apartment layout, the engine automatically identifies valid shared boundaries and determines the most **natural and efficient** locations for internal connections.
 
 The solution utilizes **Computational Geometry** for boundary detection and **Weighted Graph Theory** (Dual-Graphs) to simulate architectural flow and privacy hierarchies.
 
